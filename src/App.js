@@ -2,8 +2,8 @@ import React from 'react';
 import { Header } from './componentes/Header';
 import { Balance } from './componentes/Balance';
 import './App.css';
-import { Balance } from './componentes/Balance';
-import './App.css';
+//import { Balance } from './componentes/Balance';
+//import './App.css';
 
 
 function App() {
@@ -11,7 +11,7 @@ function App() {
     <div>
       <Header />
       <div className='container'>
-        <Balance />
+        <Balance />          
 
       </div>
     </div>
