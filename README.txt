@@ -4,4 +4,4 @@ Develop an application to manage personal expenses
 
 Tech Stack
 
-- Node js
+- Node js Framework : Express 
