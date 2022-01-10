@@ -6,7 +6,7 @@ export const IncomeExpenses = () => {
             <div>
                 <h4>my income expenses
 </h4>
-        <p id='money-plus' className='money'></p>
+        <p  className='money plus'></p>
             </div>
         </div>
     )
